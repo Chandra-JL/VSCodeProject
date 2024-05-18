@@ -6,4 +6,4 @@ test
 
 
 Changes as part of Minnalcv
-Merge conflict.
+Merge conflict..
